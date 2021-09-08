@@ -36,5 +36,6 @@ Food items and drinks where can we get the items and who want to pay the bills f
 |Mandi       |Madhapur | Shiva krishna         |
 
 # Pithy Quotes
-> Opportunities don’t happen, you create them. Chris Grosser
->Start where you are. Use what you have. Do what you can. Arthur Ashe
+> Opportunities don’t happen, you create them. *- Chris Grosser* <br>
+> Start where you are. Use what you have. Do what you can. *- Arthur Ashe*
+
