@@ -44,7 +44,7 @@ Food items and drinks where can we get the items and who want to pay the bills f
 > Lowest Common Ancestor - O(N−−√) and O(logN) with O(N) preprocessing <br>
 
 
-** [Lowest common Ancestor](https://cp-algorithms.com/graph/lca.html) **
+**[Lowest common Ancestor](https://cp-algorithms.com/graph/lca.html)**
 ```
 struct LCA {
     vector<int> height, euler, first, segtree;
